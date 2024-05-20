@@ -265,6 +265,7 @@ int main() {
 			break;
 		case 3:
 			g.Show();
+			break;
 		}
 
 		if (work != 0) {
